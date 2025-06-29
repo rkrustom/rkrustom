@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj1510&label=Profile%20views&color=0e75b6&style=flat" alt="anuj1510" /> </p>
 
-- 💻 Passionate about Software Development | Incoming SWE @ GlobalLogic 
+- 💻 Passionate about Software Development | Incoming SWE @ GlobalLogic (A Hitachi Group Company)
 
 - 🤝 Looking to collaborate on exciting tech **Full Stack Projects**
 
